@@ -1,0 +1,19 @@
+/* tamaños */
+
+.ancho {
+    background-color: aqua;
+    width: 100px;
+}
+
+.alto {
+    background-color: aquamarine;
+    height: 300px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    padding: 10px;
+
+}
